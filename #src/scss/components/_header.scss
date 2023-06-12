@@ -1,0 +1,13 @@
+.header {
+  padding: 10px 0;
+  background: $colorGrey;
+
+  &__container {
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+}
+
+.logo {
+}
